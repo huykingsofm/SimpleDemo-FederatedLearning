@@ -1,0 +1,3 @@
+[submodule "main/LocalVNetwork"]
+	path = main/LocalVNetwork
+	url = https://github.com/huykingsofm/LocalVNetwork
